@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lipidomics on </title>
+    <link>https://nara3m.github.io/tags/lipidomics/</link>
+    <description>Recent content in Lipidomics on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;` Marella `{year}</copyright>
+    <lastBuildDate>Mon, 11 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://nara3m.github.io/tags/lipidomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lipidomes of lung cancer and tumour-free lung tissues reveal distinct molecular signatures for cancer differentiation, age, inflammation, and pulmonary emphysema</title>
+      <link>https://nara3m.github.io/publication/scientificreports/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/publication/scientificreports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of Computational Methods for Systematic Analysis of Lipids and Lipidomes</title>
+      <link>https://nara3m.github.io/publication/phdthesis/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/publication/phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Lung Tissue Lipidomes of Cancer Patients using the LUX Score</title>
+      <link>https://nara3m.github.io/talk/dgms2016/</link>
+      <pubDate>Tue, 01 Mar 2016 11:30:00 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/talk/dgms2016/</guid>
+      <description>&lt;!--
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;ec1d1e5529e44550b48c74c924d6f52a&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The LUX Score: A Metric for Lipidome Homology</title>
+      <link>https://nara3m.github.io/publication/ploscompbio/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/publication/ploscompbio/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./lux2.png&#34; alt=&#34;png&#34; /&gt;
+LUX Score is an unbiased metric to measure global differences between a pair of lipidomes. It is based on structural similarity between constituent lipids. It is a distance measure, always between 0 and 1, indicating complete-similarity and complete-dissimilarity respectively
+&lt;img src=&#34;./strike3.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LUX Score - Cheminformatics Approach to Compute Lipidome Homology</title>
+      <link>https://nara3m.github.io/talk/dgms2015/</link>
+      <pubDate>Wed, 04 Mar 2015 09:15:00 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/talk/dgms2015/</guid>
+      <description>&lt;!--
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;ec1d1e5529e44550b48c74c924d6f52a&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structure based exploratory tool for lipidomics</title>
+      <link>https://nara3m.github.io/talk/cluster2014/</link>
+      <pubDate>Thu, 10 Jul 2014 11:35:00 +0200</pubDate>
+      
+      <guid>https://nara3m.github.io/talk/cluster2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Framework for Determining Lipidome Homologies</title>
+      <link>https://nara3m.github.io/talk/dgms2013/</link>
+      <pubDate>Mon, 11 Mar 2013 11:10:00 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/talk/dgms2013/</guid>
+      <description>&lt;!--
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;ec1d1e5529e44550b48c74c924d6f52a&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BLAST inspired global analysis tool box for lipidomes</title>
+      <link>https://nara3m.github.io/talk/isls2012/</link>
+      <pubDate>Thu, 15 Mar 2012 16:30:00 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/talk/isls2012/</guid>
+      <description>&lt;!--
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;ec1d1e5529e44550b48c74c924d6f52a&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Informatics Tools for Lipidomics</title>
+      <link>https://nara3m.github.io/talk/icts2012/</link>
+      <pubDate>Thu, 01 Mar 2012 09:30:00 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/talk/icts2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
