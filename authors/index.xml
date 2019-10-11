@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;` Marella `{year}</copyright>
-    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nara3m.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Anja Hartmann</title>
       <link>https://nara3m.github.io/authors/anja-hartmann/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/authors/anja-hartmann/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Mohammad-Reza Hajirezaei</title>
       <link>https://nara3m.github.io/authors/mohammad-reza-hajirezaei/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/authors/mohammad-reza-hajirezaei/</guid>
       <description></description>
@@ -33,9 +33,27 @@
     <item>
       <title>Nicolaus von Wirén</title>
       <link>https://nara3m.github.io/authors/nicolaus-von-wiren/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/authors/nicolaus-von-wiren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhaojun Liu</title>
+      <link>https://nara3m.github.io/authors/zhaojun-liu/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/authors/zhaojun-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[__Chakravarthy Marella__](/authors/admin)</title>
+      <link>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</guid>
       <description></description>
     </item>
     
@@ -45,24 +63,6 @@
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/authors/sara-rad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhaojun Liu</title>
-      <link>https://nara3m.github.io/authors/zhaojun-liu/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/authors/zhaojun-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[__Chakravarthy Marella__](/authors/admin)</title>
-      <link>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</guid>
       <description></description>
     </item>
     

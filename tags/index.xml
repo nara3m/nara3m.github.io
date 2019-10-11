@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;` Marella `{year}</copyright>
-    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nara3m.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Clustering</title>
       <link>https://nara3m.github.io/tags/clustering/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/clustering/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Coexpression Analysis</title>
       <link>https://nara3m.github.io/tags/coexpression-analysis/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/coexpression-analysis/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Differential Gene Expression</title>
       <link>https://nara3m.github.io/tags/differential-gene-expression/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/differential-gene-expression/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Gene Ontology</title>
       <link>https://nara3m.github.io/tags/gene-ontology/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/gene-ontology/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Metabolomics</title>
       <link>https://nara3m.github.io/tags/metabolomics/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/metabolomics/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Multivariate Statistics</title>
       <link>https://nara3m.github.io/tags/multivariate-statistics/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/multivariate-statistics/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Network Analysis</title>
       <link>https://nara3m.github.io/tags/network-analysis/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/network-analysis/</guid>
       <description></description>
@@ -78,9 +78,27 @@
     <item>
       <title>PCA</title>
       <link>https://nara3m.github.io/tags/pca/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/pca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomics</title>
+      <link>https://nara3m.github.io/tags/transcriptomics/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/transcriptomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WGCNA</title>
+      <link>https://nara3m.github.io/tags/wgcna/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/wgcna/</guid>
       <description></description>
     </item>
     
@@ -90,24 +108,6 @@
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/rna-seq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transcriptomics</title>
-      <link>https://nara3m.github.io/tags/transcriptomics/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/transcriptomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WGCNA</title>
-      <link>https://nara3m.github.io/tags/wgcna/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/wgcna/</guid>
       <description></description>
     </item>
     
@@ -310,7 +310,7 @@
     </item>
     
     <item>
-      <title>Antimicrobial Activity</title>
+      <title>Antimicrobial activity</title>
       <link>https://nara3m.github.io/tags/antimicrobial-activity/</link>
       <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
       

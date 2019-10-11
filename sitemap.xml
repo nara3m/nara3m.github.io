@@ -9,7 +9,7 @@
   </url>
   
   <url>
-    <loc>https://nara3m.github.io/publication_types/3/</loc>
+    <loc>https://nara3m.github.io/publication_types/2/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -47,11 +47,6 @@
     <loc>https://nara3m.github.io/tags/differential-gene-expression/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/publication/potassium/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
   </url>
   
   <url>
@@ -103,18 +98,6 @@
   </url>
   
   <url>
-    <loc>https://nara3m.github.io/tags/rna-seq/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/authors/sara-rad/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nara3m.github.io/tags/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
     <priority>0</priority>
@@ -145,7 +128,24 @@
   </url>
   
   <url>
-    <loc>https://nara3m.github.io/publication_types/2/</loc>
+    <loc>https://nara3m.github.io/publication_types/3/</loc>
+    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/publication/potassium/</loc>
+    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/rna-seq/</loc>
+    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/sara-rad/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
     <priority>0</priority>
   </url>
