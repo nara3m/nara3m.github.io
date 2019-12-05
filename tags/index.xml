@@ -7,10 +7,73 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;` Marella `{year}</copyright>
-    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 19:49:24 +0100</lastBuildDate>
     
 	    <atom:link href="https://nara3m.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Perl</title>
+      <link>https://nara3m.github.io/tags/perl/</link>
+      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/perl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein</title>
+      <link>https://nara3m.github.io/tags/protein/</link>
+      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mRNA</title>
+      <link>https://nara3m.github.io/tags/mrna/</link>
+      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/mrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polymerase</title>
+      <link>https://nara3m.github.io/tags/polymerase/</link>
+      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/polymerase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>https://nara3m.github.io/tags/simulation/</link>
+      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stocastic</title>
+      <link>https://nara3m.github.io/tags/stocastic/</link>
+      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/stocastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>translation</title>
+      <link>https://nara3m.github.io/tags/translation/</link>
+      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/translation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clustering</title>
@@ -198,15 +261,6 @@
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/needleman-wunsch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perl</title>
-      <link>https://nara3m.github.io/tags/perl/</link>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/perl/</guid>
       <description></description>
     </item>
     

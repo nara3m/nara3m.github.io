@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;` Marella `{year}</copyright>
-    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 19:49:24 +0100</lastBuildDate>
     
 	    <atom:link href="https://nara3m.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[__Chakravarthy Marella__](/authors/admin)</title>
+      <link>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</link>
+      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anja Hartmann</title>
@@ -45,15 +54,6 @@
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/authors/zhaojun-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[__Chakravarthy Marella__](/authors/admin)</title>
-      <link>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</guid>
       <description></description>
     </item>
     
@@ -261,11 +261,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;In the complex web of key players pushing the frontiers of human knowledge, I am positioned at the interface of three thematic vertices 1. Experimental Science 2. High-throughput Technology and 3. Informatics. My academic interests span a wide range of natural science questions, with the point of convergence being the development and application of computational methods - from data processing to exploratory visualization to modeling.&lt;/p&gt;
+      <description>&lt;p&gt;In the complex web of key players pushing the frontiers of human knowledge, I am positioned at the interface of three thematic vertices 1. Experimental Science 2. High-throughput Technology and 3. Informatics. Naturally, my academic interests span a wide range of natural science questions at the interface of above three vertices. However, the point of convergence is the development and application of computational methods - from data management to exploratory visualization and modeling.&lt;/p&gt;
 
-&lt;p&gt;At &lt;a href=&#34;https://www.ipk-gatersleben.de/&#34; target=&#34;_blank&#34;&gt;Institute for Plant Genetics and Crop Plant Research&lt;/a&gt;, two research areas of interest were 1. elucidating transcript, protein and metabolite level changes accompanying root senescence and 2. identification of gene expression patterns in nutrient perturbed crop plants.&lt;/p&gt;
+&lt;p&gt;For example, at &lt;a href=&#34;https://www.ipk-gatersleben.de/&#34; target=&#34;_blank&#34;&gt;Institute for Plant Genetics and Crop Plant Research&lt;/a&gt;, two research areas of interest were 1. elucidating transcript, protein and metabolite level changes accompanying &lt;a href=&#34;https://nara3m.github.io/publication/plantphysiology/&#34; target=&#34;_blank&#34;&gt;root senescence&lt;/a&gt; and 2. identification of gene expression patterns in &lt;a href=&#34;https://nara3m.github.io/publication/potassium/&#34; target=&#34;_blank&#34;&gt;nutrient perturbed&lt;/a&gt; crop plants.&lt;/p&gt;
 
-&lt;p&gt;At &lt;a href=&#34;https://fz-borstel.de/index.php/en/&#34; target=&#34;_blank&#34;&gt;Leibniz Lung Center&lt;/a&gt;, I developed methods for error modeling mass spectrometry data and conceptualized a novel metric for determining &lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1004511&#34; target=&#34;_blank&#34;&gt;lipidome homology&lt;/a&gt;. Prior to that, at the &lt;a href=&#34;https://www.ncbs.res.in/&#34; target=&#34;_blank&#34;&gt;National Center for Biological Sciences&lt;/a&gt;, I applied sequence alignment algorithms for small molecule structure comparison and developed a stochastic model of &lt;a href=&#34;https://en.wikipedia.org/wiki/Transcription_(biology)&#34; target=&#34;_blank&#34;&gt;Transcription&lt;/a&gt;. At the &lt;a href=&#34;http://www.ccmb.res.in/&#34; target=&#34;_blank&#34;&gt;Center for Cellular and Molecular Biology&lt;/a&gt;, the focus was to reconstruct microbial metabolic pathways from publicly available databases and analyze the network topology.&lt;/p&gt;
+&lt;p&gt;At &lt;a href=&#34;https://fz-borstel.de/index.php/en/&#34; target=&#34;_blank&#34;&gt;Leibniz Lung Center&lt;/a&gt;, the target was to develop computational methods for mass spectrometry data. Specifically, I developed an error modeling technique and conceptualized a novel metric for determining &lt;a href=&#34;https://nara3m.github.io/publication/ploscompbio/&#34; target=&#34;_blank&#34;&gt;lipidome homology&lt;/a&gt;. Prior to that, at the &lt;a href=&#34;https://www.ncbs.res.in/&#34; target=&#34;_blank&#34;&gt;National Center for Biological Sciences&lt;/a&gt;, I applied sequence alignment algorithms for small molecule structure comparison and developed a stochastic model of &lt;a href=&#34;https://nara3m.github.io/post/translation/&#34; target=&#34;_blank&#34;&gt;Transcription&lt;/a&gt;. At the &lt;a href=&#34;http://www.ccmb.res.in/&#34; target=&#34;_blank&#34;&gt;Center for Cellular and Molecular Biology&lt;/a&gt;, the focus was to reconstruct microbial metabolic pathways from publicly available databases and analyze the network topology.&lt;/p&gt;
 
 &lt;p&gt;Away from work, I enjoy bicyling, running and reading. Favorite book is To Kill a Mocking Bird by &lt;a href=&#34;https://en.wikipedia.org/wiki/Harper_Lee&#34; target=&#34;_blank&#34;&gt;Harper Lee&lt;/a&gt;. Favorite running event is &lt;a href=&#34;https://en.wikipedia.org/wiki/Polar_Night_Halfmarathon/&#34; target=&#34;_blank&#34;&gt;Tromsø Polar Night Halfmarathon&lt;/a&gt;.&lt;/p&gt;
 </description>

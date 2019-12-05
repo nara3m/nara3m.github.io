@@ -4,7 +4,90 @@
   
   <url>
     <loc>https://nara3m.github.io/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/categories/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/perl/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/protein/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/post/translation/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/categories/code/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/mrna/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/categories/perl/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/polymerase/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/simulation/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/stocastic/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/translation/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -21,12 +104,6 @@
   
   <url>
     <loc>https://nara3m.github.io/authors/anja-hartmann/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/authors/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -98,12 +175,6 @@
   </url>
   
   <url>
-    <loc>https://nara3m.github.io/tags/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nara3m.github.io/tags/transcriptomics/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
     <priority>0</priority>
@@ -117,12 +188,6 @@
   
   <url>
     <loc>https://nara3m.github.io/authors/zhaojun-liu/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -270,12 +335,6 @@
   
   <url>
     <loc>https://nara3m.github.io/tags/needleman-wunsch/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/tags/perl/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -506,11 +565,6 @@
   <url>
     <loc>https://nara3m.github.io/slides/190731/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
