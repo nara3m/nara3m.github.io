@@ -21,6 +21,12 @@
   </url>
   
   <url>
+    <loc>https://nara3m.github.io/tags/perl/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nara3m.github.io/tags/protein/</loc>
     <lastmod>2019-12-05T19:49:24+01:00</lastmod>
     <priority>0</priority>
@@ -57,12 +63,6 @@
   
   <url>
     <loc>https://nara3m.github.io/categories/perl/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/tags/perl/</loc>
     <lastmod>2019-12-05T19:49:24+01:00</lastmod>
     <priority>0</priority>
   </url>
