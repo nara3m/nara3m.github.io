@@ -7,17 +7,44 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;` Marella `{year}</copyright>
-    <lastBuildDate>Thu, 05 Dec 2019 19:49:24 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nara3m.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Protein</title>
-      <link>https://nara3m.github.io/tags/protein/</link>
-      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      <title>Cancer</title>
+      <link>https://nara3m.github.io/tags/cancer/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/protein/</guid>
+      <guid>https://nara3m.github.io/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromatin</title>
+      <link>https://nara3m.github.io/tags/chromatin/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/chromatin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass Spectrometry</title>
+      <link>https://nara3m.github.io/tags/mass-spectrometry/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/mass-spectrometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation</title>
+      <link>https://nara3m.github.io/tags/regulation/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/regulation/</guid>
       <description></description>
     </item>
     
@@ -45,6 +72,15 @@
       <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
       
       <guid>https://nara3m.github.io/tags/polymerase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein</title>
+      <link>https://nara3m.github.io/tags/protein/</link>
+      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/protein/</guid>
       <description></description>
     </item>
     
@@ -166,15 +202,6 @@
     </item>
     
     <item>
-      <title>RNA-Seq</title>
-      <link>https://nara3m.github.io/tags/rna-seq/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/rna-seq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Biochemistry</title>
       <link>https://nara3m.github.io/tags/biochemistry/</link>
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
@@ -189,15 +216,6 @@
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tags/lipidomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mass Spectrometry</title>
-      <link>https://nara3m.github.io/tags/mass-spectrometry/</link>
-      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/mass-spectrometry/</guid>
       <description></description>
     </item>
     
@@ -306,6 +324,15 @@
       <pubDate>Tue, 01 Mar 2016 11:30:00 +0100</pubDate>
       
       <guid>https://nara3m.github.io/tags/lung-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA-Seq</title>
+      <link>https://nara3m.github.io/tags/rna-seq/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tags/rna-seq/</guid>
       <description></description>
     </item>
     

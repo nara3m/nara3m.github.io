@@ -12,20 +12,20 @@
     
     
     <item>
+      <title>Acute BAF perturbation causes immediate changes in chromatin accessibility</title>
+      <link>https://nara3m.github.io/publication/naturegenetics/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/publication/naturegenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A genetically-determined sequence of physiological processes defines developmental root senescence</title>
       <link>https://nara3m.github.io/publication/plantphysiology/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/publication/plantphysiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of Silica in Potassium deficient barley</title>
-      <link>https://nara3m.github.io/publication/potassium/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/publication/potassium/</guid>
       <description></description>
     </item>
     
@@ -53,9 +53,18 @@
       <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/publication/ploscompbio/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./StrikeImage.png&#34; alt=&#34;png&#34; /&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./StrikeImage.png&#34; alt=&#34;png&#34;&gt;
 LUX Score is an unbiased metric to measure global differences between a pair of lipidomes. It is based on structural similarity between constituent lipids. It is a distance measure, always between 0 and 1, indicating complete-similarity and complete-dissimilarity respectively&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Effect of Silica in Potassium deficient barley</title>
+      <link>https://nara3m.github.io/publication/potassium/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/publication/potassium/</guid>
+      <description></description>
     </item>
     
     <item>

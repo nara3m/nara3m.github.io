@@ -18,7 +18,7 @@
       <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/publication/ploscompbio/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./StrikeImage.png&#34; alt=&#34;png&#34; /&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./StrikeImage.png&#34; alt=&#34;png&#34;&gt;
 LUX Score is an unbiased metric to measure global differences between a pair of lipidomes. It is based on structural similarity between constituent lipids. It is a distance measure, always between 0 and 1, indicating complete-similarity and complete-dissimilarity respectively&lt;/p&gt;
 </description>
     </item>

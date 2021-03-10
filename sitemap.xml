@@ -1,35 +1,180 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://nara3m.github.io/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/publication_types/2/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/publication/naturegenetics/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/andre-c.-muller/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/andre-f.-rendeiro/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/anna-koren/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/cancer/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/christoph-bock/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/chromatin/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/danica-drpic/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/georg-e.-winter/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/gerald-hofstatter/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/hana-imrichova/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/jung-ming-g.-lin/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/katharina-eva-kohl/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/mark-petronczki/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/martin-g.-jaeger/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/mass-spectrometry/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/michael-schuster/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/publication_types/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/regulation/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/sandra-schick/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/sarah-grosche/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/stefan-kubicek/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/categories/</loc>
     <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/categories/code/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/mrna/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/perl/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/categories/perl/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/polymerase/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/protein/</loc>
     <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nara3m.github.io/tags/</loc>
+    <loc>https://nara3m.github.io/tags/simulation/</loc>
     <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/stocastic/</loc>
+    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
   </url>
   
   <url>
@@ -38,63 +183,8 @@
   </url>
   
   <url>
-    <loc>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/categories/code/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/tags/mrna/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/categories/perl/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/tags/perl/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/tags/polymerase/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/tags/simulation/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/tags/stocastic/</loc>
-    <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nara3m.github.io/tags/translation/</loc>
     <lastmod>2019-12-05T19:49:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/publication_types/2/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -105,156 +195,106 @@
   <url>
     <loc>https://nara3m.github.io/authors/anja-hartmann/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/clustering/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/coexpression-analysis/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/differential-gene-expression/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/gene-ontology/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/metabolomics/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/mohammad-reza-hajirezaei/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/multivariate-statistics/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/network-analysis/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/nicolaus-von-wiren/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/pca/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/publication_types/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/transcriptomics/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/wgcna/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/zhaojun-liu/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/publication_types/3/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/publication/potassium/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/tags/rna-seq/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/authors/sara-rad/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/biochemistry/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/christian-kugler/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/dominik-schwudke/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/henrik-watz/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/julia-muller/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/klaus-f.-rabe/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/lars-f.-eggers/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -265,37 +305,26 @@
   <url>
     <loc>https://nara3m.github.io/tags/lipidomics/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/tags/mass-spectrometry/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/torsten-goldmann/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/verena-scholz/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/publication_types/7/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/cheminformatics/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -306,55 +335,46 @@
   <url>
     <loc>https://nara3m.github.io/tags/foss/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/hausdorff-distance/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/levenshtein-distance/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/molecular-fingerprints/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/multiple-sequence-alignment/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/needleman-wunsch/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/python/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/r/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/smith-waterman/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -365,23 +385,45 @@
   <url>
     <loc>https://nara3m.github.io/tags/biomarker/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/lung-cancer/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/andrew-torda/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/publication/ploscompbio/</loc>
+    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/publication_types/3/</loc>
+    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/publication/potassium/</loc>
+    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/rna-seq/</loc>
+    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/sara-rad/</loc>
+    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/lipids/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
   </url>
   
@@ -391,15 +433,8 @@
   </url>
   
   <url>
-    <loc>https://nara3m.github.io/tags/lipids/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nara3m.github.io/tags/structure-similartity/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -408,33 +443,23 @@
   </url>
   
   <url>
-    <loc>https://nara3m.github.io/authors/chakravarthy-marella/authors/admin/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nara3m.github.io/tags/antimicrobial-peptides/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/biophysics/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/carlos-pelaez-jaramillo/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/edwin-patino/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -445,55 +470,46 @@
   <url>
     <loc>https://nara3m.github.io/authors/jochen-behrends/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/klaus-brandenburg/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/lena-heinbockel/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/marcela-manrique-moreno/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/membranes/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/patrick-garidel/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nara3m.github.io/tags/tnf-%CE%B1/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/thomas-gutsmann/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/tags/tnf-%CE%B1/</loc>
+    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/wilmar-correa/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -514,31 +530,26 @@
   <url>
     <loc>https://nara3m.github.io/publication_types/1/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/antimicrobial-activity/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/microbiology/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/robin-sharma/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/authors/sivaramakrishna-uppalapati/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -549,13 +560,11 @@
   <url>
     <loc>https://nara3m.github.io/authors/vijayakumar-buddan/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nara3m.github.io/tags/herbicides/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -566,6 +575,18 @@
   <url>
     <loc>https://nara3m.github.io/authors/admin/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/__chakravarthy-marella__/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/__nara-c.-marella__/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nara3m.github.io/authors/chakravarthy-marella/authors/admin/</loc>
   </url>
   
   <url>
@@ -586,7 +607,6 @@
   <url>
     <loc>https://nara3m.github.io/slides/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
