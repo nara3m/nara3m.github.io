@@ -7,413 +7,548 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;` Marella `{year}</copyright>
-    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nara3m.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cancer</title>
-      <link>https://nara3m.github.io/tags/cancer/</link>
-      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/cancer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chromatin</title>
-      <link>https://nara3m.github.io/tags/chromatin/</link>
-      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/chromatin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mass Spectrometry</title>
-      <link>https://nara3m.github.io/tags/mass-spectrometry/</link>
-      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/mass-spectrometry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regulation</title>
-      <link>https://nara3m.github.io/tags/regulation/</link>
-      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/regulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mRNA</title>
-      <link>https://nara3m.github.io/tags/mrna/</link>
-      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/mrna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>perl</title>
-      <link>https://nara3m.github.io/tags/perl/</link>
-      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/perl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>polymerase</title>
-      <link>https://nara3m.github.io/tags/polymerase/</link>
-      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/polymerase/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Protein</title>
-      <link>https://nara3m.github.io/tags/protein/</link>
-      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/protein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>simulation</title>
-      <link>https://nara3m.github.io/tags/simulation/</link>
-      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stocastic</title>
-      <link>https://nara3m.github.io/tags/stocastic/</link>
-      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/stocastic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>translation</title>
-      <link>https://nara3m.github.io/tags/translation/</link>
-      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering</title>
-      <link>https://nara3m.github.io/tags/clustering/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coexpression Analysis</title>
-      <link>https://nara3m.github.io/tags/coexpression-analysis/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/coexpression-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Differential Gene Expression</title>
-      <link>https://nara3m.github.io/tags/differential-gene-expression/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/differential-gene-expression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gene Ontology</title>
-      <link>https://nara3m.github.io/tags/gene-ontology/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/gene-ontology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metabolomics</title>
-      <link>https://nara3m.github.io/tags/metabolomics/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/metabolomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multivariate Statistics</title>
-      <link>https://nara3m.github.io/tags/multivariate-statistics/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/multivariate-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network Analysis</title>
-      <link>https://nara3m.github.io/tags/network-analysis/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/network-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PCA</title>
-      <link>https://nara3m.github.io/tags/pca/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/pca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transcriptomics</title>
-      <link>https://nara3m.github.io/tags/transcriptomics/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/transcriptomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WGCNA</title>
-      <link>https://nara3m.github.io/tags/wgcna/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/wgcna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Biochemistry</title>
-      <link>https://nara3m.github.io/tags/biochemistry/</link>
-      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      <link>https://nara3m.github.io/tag/biochemistry/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/biochemistry/</guid>
+      <guid>https://nara3m.github.io/tag/biochemistry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lipidomics</title>
-      <link>https://nara3m.github.io/tags/lipidomics/</link>
-      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      <link>https://nara3m.github.io/tag/lipidomics/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/lipidomics/</guid>
+      <guid>https://nara3m.github.io/tag/lipidomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass Spectrometry</title>
+      <link>https://nara3m.github.io/tag/mass-spectrometry/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/mass-spectrometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physiology</title>
+      <link>https://nara3m.github.io/tag/physiology/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/physiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNASeq</title>
+      <link>https://nara3m.github.io/tag/rnaseq/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/rnaseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transcriptomics</title>
+      <link>https://nara3m.github.io/tag/transcriptomics/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/transcriptomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proteomics</title>
+      <link>https://nara3m.github.io/tag/proteomics/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/proteomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algorithms</title>
+      <link>https://nara3m.github.io/tag/algorithms/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Theory</title>
+      <link>https://nara3m.github.io/tag/decision-theory/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/decision-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://nara3m.github.io/tag/docker/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hpc</title>
+      <link>https://nara3m.github.io/tag/hpc/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/hpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lims</title>
+      <link>https://nara3m.github.io/tag/lims/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/lims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mini-Max</title>
+      <link>https://nara3m.github.io/tag/mini-max/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/mini-max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality Control (QC)</title>
+      <link>https://nara3m.github.io/tag/quality-control-qc/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/quality-control-qc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reursive Programming</title>
+      <link>https://nara3m.github.io/tag/reursive-programming/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/reursive-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://nara3m.github.io/tag/software/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://nara3m.github.io/tag/sql/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
+      <link>https://nara3m.github.io/tag/statistics/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perl</title>
+      <link>https://nara3m.github.io/tag/perl/</link>
+      <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/perl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>https://nara3m.github.io/tag/clustering/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coexpression Analysis</title>
+      <link>https://nara3m.github.io/tag/coexpression-analysis/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/coexpression-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Gene Expression</title>
+      <link>https://nara3m.github.io/tag/differential-gene-expression/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/differential-gene-expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene Ontology</title>
+      <link>https://nara3m.github.io/tag/gene-ontology/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/gene-ontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolomics</title>
+      <link>https://nara3m.github.io/tag/metabolomics/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Statistics</title>
+      <link>https://nara3m.github.io/tag/multivariate-statistics/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/multivariate-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Analysis</title>
+      <link>https://nara3m.github.io/tag/network-analysis/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCA</title>
+      <link>https://nara3m.github.io/tag/pca/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/pca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WGCNA</title>
+      <link>https://nara3m.github.io/tag/wgcna/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/wgcna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cheminformatics</title>
-      <link>https://nara3m.github.io/tags/cheminformatics/</link>
+      <link>https://nara3m.github.io/tag/cheminformatics/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/cheminformatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FOSS</title>
-      <link>https://nara3m.github.io/tags/foss/</link>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/foss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hausdorff Distance</title>
-      <link>https://nara3m.github.io/tags/hausdorff-distance/</link>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/hausdorff-distance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Levenshtein Distance</title>
-      <link>https://nara3m.github.io/tags/levenshtein-distance/</link>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/levenshtein-distance/</guid>
+      <guid>https://nara3m.github.io/tag/cheminformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular Fingerprints</title>
-      <link>https://nara3m.github.io/tags/molecular-fingerprints/</link>
+      <link>https://nara3m.github.io/tag/molecular-fingerprints/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/molecular-fingerprints/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiple Sequence Alignment</title>
-      <link>https://nara3m.github.io/tags/multiple-sequence-alignment/</link>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/multiple-sequence-alignment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Needleman-Wunsch</title>
-      <link>https://nara3m.github.io/tags/needleman-wunsch/</link>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/needleman-wunsch/</guid>
+      <guid>https://nara3m.github.io/tag/molecular-fingerprints/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://nara3m.github.io/tags/python/</link>
+      <link>https://nara3m.github.io/tag/python/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/python/</guid>
+      <guid>https://nara3m.github.io/tag/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://nara3m.github.io/tags/r/</link>
+      <link>https://nara3m.github.io/tag/r/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smith-Waterman</title>
-      <link>https://nara3m.github.io/tags/smith-waterman/</link>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/smith-waterman/</guid>
+      <guid>https://nara3m.github.io/tag/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biomarker</title>
-      <link>https://nara3m.github.io/tags/biomarker/</link>
-      <pubDate>Tue, 01 Mar 2016 11:30:00 +0100</pubDate>
+      <link>https://nara3m.github.io/tag/biomarker/</link>
+      <pubDate>Tue, 01 Mar 2016 11:30:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/biomarker/</guid>
+      <guid>https://nara3m.github.io/tag/biomarker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lung Cancer</title>
-      <link>https://nara3m.github.io/tags/lung-cancer/</link>
-      <pubDate>Tue, 01 Mar 2016 11:30:00 +0100</pubDate>
+      <link>https://nara3m.github.io/tag/lung-cancer/</link>
+      <pubDate>Tue, 01 Mar 2016 11:30:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/lung-cancer/</guid>
+      <guid>https://nara3m.github.io/tag/lung-cancer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>RNA-Seq</title>
-      <link>https://nara3m.github.io/tags/rna-seq/</link>
-      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      <title>FOSS</title>
+      <link>https://nara3m.github.io/tag/foss/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/rna-seq/</guid>
+      <guid>https://nara3m.github.io/tag/foss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hausdorff Distance</title>
+      <link>https://nara3m.github.io/tag/hausdorff-distance/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/hausdorff-distance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Levenshtein Distance</title>
+      <link>https://nara3m.github.io/tag/levenshtein-distance/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/levenshtein-distance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Sequence Alignment</title>
+      <link>https://nara3m.github.io/tag/multiple-sequence-alignment/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/multiple-sequence-alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Needleman-Wunsch</title>
+      <link>https://nara3m.github.io/tag/needleman-wunsch/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/needleman-wunsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smith-Waterman</title>
+      <link>https://nara3m.github.io/tag/smith-waterman/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/smith-waterman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS S3</title>
+      <link>https://nara3m.github.io/tag/aws-s3/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/aws-s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dashboard</title>
+      <link>https://nara3m.github.io/tag/dashboard/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Independent Acquisition (DIA)</title>
+      <link>https://nara3m.github.io/tag/data-independent-acquisition-dia/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/data-independent-acquisition-dia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Babel</title>
+      <link>https://nara3m.github.io/tag/open-babel/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/open-babel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phospho-Proteomics</title>
+      <link>https://nara3m.github.io/tag/phospho-proteomics/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/phospho-proteomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plant nutrition</title>
+      <link>https://nara3m.github.io/tag/plant-nutrition/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/plant-nutrition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSVGTipsDevice</title>
+      <link>https://nara3m.github.io/tag/rsvgtipsdevice/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/rsvgtipsdevice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scatterplot3d</title>
+      <link>https://nara3m.github.io/tag/scatterplot3d/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/scatterplot3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streamlit</title>
+      <link>https://nara3m.github.io/tag/streamlit/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/streamlit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webgl</title>
+      <link>https://nara3m.github.io/tag/webgl/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/webgl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lipids</title>
-      <link>https://nara3m.github.io/tags/lipids/</link>
-      <pubDate>Wed, 04 Mar 2015 09:15:00 +0100</pubDate>
+      <link>https://nara3m.github.io/tag/lipids/</link>
+      <pubDate>Wed, 04 Mar 2015 09:15:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/lipids/</guid>
+      <guid>https://nara3m.github.io/tag/lipids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structure Similartity</title>
-      <link>https://nara3m.github.io/tags/structure-similartity/</link>
-      <pubDate>Wed, 04 Mar 2015 09:15:00 +0100</pubDate>
+      <link>https://nara3m.github.io/tag/structure-similartity/</link>
+      <pubDate>Wed, 04 Mar 2015 09:15:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/structure-similartity/</guid>
+      <guid>https://nara3m.github.io/tag/structure-similartity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antimicrobial Peptides</title>
-      <link>https://nara3m.github.io/tags/antimicrobial-peptides/</link>
+      <link>https://nara3m.github.io/tag/antimicrobial-peptides/</link>
       <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/antimicrobial-peptides/</guid>
+      <guid>https://nara3m.github.io/tag/antimicrobial-peptides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biophysics</title>
-      <link>https://nara3m.github.io/tags/biophysics/</link>
+      <link>https://nara3m.github.io/tag/biophysics/</link>
       <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/biophysics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Membranes</title>
-      <link>https://nara3m.github.io/tags/membranes/</link>
-      <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tags/membranes/</guid>
+      <guid>https://nara3m.github.io/tag/biophysics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TNF-α</title>
-      <link>https://nara3m.github.io/tags/tnf-%CE%B1/</link>
+      <link>https://nara3m.github.io/tag/tnf-%CE%B1/</link>
       <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/tnf-%CE%B1/</guid>
+      <guid>https://nara3m.github.io/tag/tnf-%CE%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolic networks</title>
+      <link>https://nara3m.github.io/tag/metabolic-networks/</link>
+      <pubDate>Mon, 24 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/metabolic-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathway Models</title>
+      <link>https://nara3m.github.io/tag/pathway-models/</link>
+      <pubDate>Mon, 24 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/pathway-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antimicrobial activity</title>
-      <link>https://nara3m.github.io/tags/antimicrobial-activity/</link>
+      <link>https://nara3m.github.io/tag/antimicrobial-activity/</link>
       <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/antimicrobial-activity/</guid>
+      <guid>https://nara3m.github.io/tag/antimicrobial-activity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microbiology</title>
-      <link>https://nara3m.github.io/tags/microbiology/</link>
+      <link>https://nara3m.github.io/tag/microbiology/</link>
       <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/microbiology/</guid>
+      <guid>https://nara3m.github.io/tag/microbiology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Herbicides</title>
-      <link>https://nara3m.github.io/tags/herbicides/</link>
+      <link>https://nara3m.github.io/tag/herbicides/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/tags/herbicides/</guid>
+      <guid>https://nara3m.github.io/tag/herbicides/</guid>
       <description></description>
     </item>
     

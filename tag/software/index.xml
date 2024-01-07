@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on </title>
+    <link>https://nara3m.github.io/tag/software/</link>
+    <description>Recent content in software on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;` Marella `{year}</copyright>
+    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://nara3m.github.io/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lab Operations Software</title>
+      <link>https://nara3m.github.io/project/lims/ilab/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/project/lims/ilab/</guid>
+      <description>&lt;p&gt;Deployed, trained staff and maintained iLab Operations Software for the &lt;a href=&#34;https://eu.ilabsolutions.com/service_center/show_external/3656&#34;&gt;Molecular Discovery Platform (MDP)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
