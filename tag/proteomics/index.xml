@@ -31,15 +31,45 @@
     </item>
     
     <item>
+      <title>Protein identification from Gels</title>
+      <link>https://nara3m.github.io/project/proteomics/virus_caco_vero/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/project/proteomics/virus_caco_vero/</guid>
+      <description>&lt;p&gt;Do you want to know which proteins are present in your SDS-PAGE gel bands? Just
+cut out the band of interest from your Coomassie or silver-stained gel and hand it
+over to us! We have all protocols at hand to perform in-gel digestion LC-MS/MS
+analysis. In order to minimize contamination issues, please consult our detailed
+recommendation under sample submission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>QCloud 2.0</title>
       <link>https://nara3m.github.io/project/lims/qcloud/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/project/lims/qcloud/</guid>
-      <description>&lt;p&gt;QCloud is a client-server architecture based software tool to support proteomics laboratories in daily quality assessment using a user-friendly interface, easy setup, automated data processing and archiving, and unbiased instrument evaluation.&lt;/p&gt;
-&lt;p&gt;QCloud supports the most common targeted and untargeted proteomics workflows, it accepts data formats from different vendors and it enables the annotation of acquired data and reporting incidences. A complete version of the QCloud system has successfully been developed and it is now open to the proteomics community (&lt;a href=&#34;http://qcloud.crg.eu&#34;&gt;http://qcloud.crg.eu&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;QCloud system is an open source project, publicly available under a Creative Commons License Attribution-ShareAlike 4.0.&lt;/p&gt;
-&lt;p&gt;I beta-tested QCloud 2.0 Software and performed test deployment at the Molecular Discovery Platform of CeMM&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://qcloud.crg.eu&#34;&gt;QCloud&lt;/a&gt; is a client-server architecture based software tool to support proteomics laboratories in daily quality assessment using a user-friendly interface, easy setup, automated data processing and archiving, and unbiased instrument evaluation.&lt;/p&gt;
+&lt;p&gt;QCloud supports the most common targeted and untargeted proteomics workflows, it accepts data formats from different vendors and it enables the annotation of acquired data and reporting incidences. I successfully deployed a complete version of the QCloud system at the Molecular Discovery Platform of CeMM.&lt;/p&gt;
+&lt;p&gt;Moreover, I beta-tested QCloud 2.0 Software and provided feedback to the developers at CRG Barcelona.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qualitative Profiling</title>
+      <link>https://nara3m.github.io/project/others/formbricks/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/project/others/formbricks/</guid>
+      <description>&lt;p&gt;We perform analysis either in a one dimensional (1D) single injection or two
+dimensional (2D) multiple injection LC-MS/MS depending on the expected protein
+amount and complexity in the sample. 1D and 2D workflows provide the highest
+flexibility regarding proteome coverage and cost control. We offer different
+choices in standardized gradient lengths (60- 240 min) and number of fractions
+(12-36 x 120 min). For offline fractionation of peptides, we use the commonly
+established basic-pH reversed phase chromatography together with concatenated
+pooling strategy prior to LC-MS analysis.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,10 +80,12 @@
       
       <guid>https://nara3m.github.io/project/lims/simpatiqco/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ms.imp.ac.at/?action=simpatiqco&#34;&gt;SimpatiQCo&lt;/a&gt; is a software suite running on a local server for a Mass Spectrometry service facility.&lt;/p&gt;
-&lt;p&gt;Through a web interface, it allows everyone to upload raw or wiff files (please see list of supported instruments below), stemming from a Thermo mass spectrometer or an ABI Sciex mass spectrometer respectively.&lt;/p&gt;
-&lt;p&gt;The software will then analyse the raw file, extract data (ion injection times, scan times,&amp;hellip;) and will also do a Mascot search if a Mascot-server is available. All data (from the raw file and search results) is then stored in a database, which is accessable through the web interface to view several values and graphs for the current run, but also to view long-term data over a time course.&lt;/p&gt;
+&lt;p&gt;Through a web interface, SimpatiQCo allows facility staff to upload raw or wiff files stemming from a Thermo mass spectrometer or an ABI Sciex mass spectrometer respectively. The software will then analyse the raw file, extract data (ion injection times, scan times,&amp;hellip;) and will also do a Mascot search.&lt;/p&gt;
+&lt;p&gt;I set up an in house Mascot-server and later linked a collaborative Mascot-server from &lt;a href=&#34;https://corefacilities.meduniwien.ac.at/en/our-units/proteomics/&#34;&gt;Medical University of Vienna&lt;/a&gt; to work with local SimpatiQCo installation. All data from the raw file and Mascot search results are then stored in a Postgres database, which is accessible through the web interface to view several values and graphs for the current run, but also to view long-term data over a time course.&lt;/p&gt;
 &lt;p&gt;It is therefore easy to plot e.g. PSMs vs. retention time, to plot the lock mass deviation over a whole run, or to create a plot viewing the sequence coverage of a certain protein over a long time period.&lt;/p&gt;
-&lt;p&gt;I established and maintained SimpatiQCo software suite for the Molecular Discovery Platform of CeMM&lt;/p&gt;
+&lt;p&gt;I set up SimpatiQCo software at the &lt;a href=&#34;https://eu.ilabsolutions.com/service_center/show_external/3656&#34;&gt;Molecular Discovery Platform (MDP)&lt;/a&gt; of &lt;a href=&#34;https://cemm.at&#34;&gt;CeMM&lt;/a&gt; under a Virtual Machine running Windows 10 OS (Education Licence, Version 22H2, OS Build 19045.3693)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./2.png&#34; alt=&#34;png&#34;&gt;
+&lt;img src=&#34;./1.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

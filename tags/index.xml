@@ -112,6 +112,15 @@
     </item>
     
     <item>
+      <title>Informatics</title>
+      <link>https://nara3m.github.io/tag/informatics/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/informatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>lims</title>
       <link>https://nara3m.github.io/tag/lims/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
@@ -121,11 +130,29 @@
     </item>
     
     <item>
+      <title>Metabolomics</title>
+      <link>https://nara3m.github.io/tag/metabolomics/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mini-Max</title>
       <link>https://nara3m.github.io/tag/mini-max/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tag/mini-max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postgres</title>
+      <link>https://nara3m.github.io/tag/postgres/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/postgres/</guid>
       <description></description>
     </item>
     
@@ -175,6 +202,15 @@
     </item>
     
     <item>
+      <title>vm</title>
+      <link>https://nara3m.github.io/tag/vm/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/tag/vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Perl</title>
       <link>https://nara3m.github.io/tag/perl/</link>
       <pubDate>Thu, 05 Dec 2019 19:49:24 +0100</pubDate>
@@ -216,15 +252,6 @@
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/tag/gene-ontology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metabolomics</title>
-      <link>https://nara3m.github.io/tag/metabolomics/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nara3m.github.io/tag/metabolomics/</guid>
       <description></description>
     </item>
     

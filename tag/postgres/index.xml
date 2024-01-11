@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>postgres on </title>
+    <link>https://nara3m.github.io/tag/postgres/</link>
+    <description>Recent content in postgres on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;` Marella `{year}</copyright>
+    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://nara3m.github.io/tag/postgres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SimpatiQCo</title>
+      <link>https://nara3m.github.io/project/lims/simpatiqco/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/project/lims/simpatiqco/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ms.imp.ac.at/?action=simpatiqco&#34;&gt;SimpatiQCo&lt;/a&gt; is a software suite running on a local server for a Mass Spectrometry service facility.&lt;/p&gt;
+&lt;p&gt;Through a web interface, SimpatiQCo allows facility staff to upload raw or wiff files stemming from a Thermo mass spectrometer or an ABI Sciex mass spectrometer respectively. The software will then analyse the raw file, extract data (ion injection times, scan times,&amp;hellip;) and will also do a Mascot search.&lt;/p&gt;
+&lt;p&gt;I set up an in house Mascot-server and later linked a collaborative Mascot-server from &lt;a href=&#34;https://corefacilities.meduniwien.ac.at/en/our-units/proteomics/&#34;&gt;Medical University of Vienna&lt;/a&gt; to work with local SimpatiQCo installation. All data from the raw file and Mascot search results are then stored in a Postgres database, which is accessible through the web interface to view several values and graphs for the current run, but also to view long-term data over a time course.&lt;/p&gt;
+&lt;p&gt;It is therefore easy to plot e.g. PSMs vs. retention time, to plot the lock mass deviation over a whole run, or to create a plot viewing the sequence coverage of a certain protein over a long time period.&lt;/p&gt;
+&lt;p&gt;I set up SimpatiQCo software at the &lt;a href=&#34;https://eu.ilabsolutions.com/service_center/show_external/3656&#34;&gt;Molecular Discovery Platform (MDP)&lt;/a&gt; of &lt;a href=&#34;https://cemm.at&#34;&gt;CeMM&lt;/a&gt; under a Virtual Machine running Windows 10 OS (Education Licence, Version 22H2, OS Build 19045.3693)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./2.png&#34; alt=&#34;png&#34;&gt;
+&lt;img src=&#34;./1.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

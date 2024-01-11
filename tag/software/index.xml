@@ -18,7 +18,24 @@
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/project/lims/ilab/</guid>
-      <description>&lt;p&gt;Deployed, trained staff and maintained iLab Operations Software for the &lt;a href=&#34;https://eu.ilabsolutions.com/service_center/show_external/3656&#34;&gt;Molecular Discovery Platform (MDP)&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;iLab core facility management is a web-based enterprise software solution composed of a base software suite and add-on modules and integrations. The software facilitates service request, customer, and project management, as well as billing and invoicing, among other functions.&lt;/p&gt;
+&lt;p&gt;For many years, Mass Spectrometry facility at CeMM was using macro enabled Excel-sheets, postgres database, php/java based web tool to manage core facility operations. The existing set up was hard to maintian becuase of the end-of-life support for backend python, php, java and Scientific Linux OS. Therefore, in the first year of joining CeMM, while keeping the existing infrastructure operational, I deployed, trained staff and maintained iLab Operations Software to streamline information management at the &lt;a href=&#34;https://eu.ilabsolutions.com/service_center/show_external/3656&#34;&gt;Molecular Discovery Platform (MDP)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./iLab_1.jpg&#34; alt=&#34;jpg&#34;&gt;
+&lt;img src=&#34;./iLab_2.webp&#34; alt=&#34;webp&#34;&gt;
+&lt;img src=&#34;./iLab_3.webp&#34; alt=&#34;webp&#34;&gt;
+&lt;img src=&#34;./iLab_4.webp&#34; alt=&#34;webp&#34;&gt;
+&lt;img src=&#34;./iLab_5.webp&#34; alt=&#34;webp&#34;&gt;&lt;/p&gt;
+&lt;p&gt;with iLab Software deployment, I brought the following benefits to the Core facility:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manage requests easily with iLab’s streamlined and straightforward workflow with request management&lt;/li&gt;
+&lt;li&gt;Easy to use and intuitive interface for managing reservations with resource scheduling&lt;/li&gt;
+&lt;li&gt;View dynamic reports within the system or download the underlying data for business intelligence analysis from the usage, request, and billing data stored in the system&lt;/li&gt;
+&lt;li&gt;Simple and intuitive billing platform ensures accurate accounting and timely compensation with the billing and invoicing module&lt;/li&gt;
+&lt;li&gt;Advanced customer management tool uses association and filtering options for customized searches and allows the core to easily manage customer details in one place with people search&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;iLab core facility management software saved time and money for CeMM.&lt;/p&gt;
+&lt;h1 id=&#34;hahahugoshortcode32s0hbhb&#34;&gt;&lt;iframe src=&#34;https://n3slides.netlify.app/slides/example/&#34; width=&#34;1000&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;geolocation *; microphone *; camera *; midi *; encrypted-media *&#34;&gt;&lt;/iframe&gt;
+&lt;/h1&gt;
 </description>
     </item>
     

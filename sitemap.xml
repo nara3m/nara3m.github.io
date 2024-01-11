@@ -209,22 +209,40 @@
     <loc>https://nara3m.github.io/tag/algorithms/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nara3m.github.io/project/metabolomics/mec051/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nara3m.github.io/project/hpc/aws_azure/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nara3m.github.io/project/metabolomics/mec071/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nara3m.github.io/project/metabolomics/mcc115/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nara3m.github.io/project/statistics/cv/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nara3m.github.io/tag/decision-theory/</loc>
+    <loc>https://nara3m.github.io/project/others/wisemapping/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nara3m.github.io/project/hpc/docker/</loc>
+    <loc>https://nara3m.github.io/project/others/datavis/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nara3m.github.io/tag/decision-theory/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nara3m.github.io/tag/docker/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nara3m.github.io/project/hpc/docker/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nara3m.github.io/tag/hpc/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nara3m.github.io/tag/informatics/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nara3m.github.io/project/lims/ilab/</loc>
@@ -233,16 +251,34 @@
     <loc>https://nara3m.github.io/tag/lims/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nara3m.github.io/tag/metabolomics/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nara3m.github.io/tag/mini-max/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nara3m.github.io/tag/postgres/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nara3m.github.io/project/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nara3m.github.io/project/proteomics/virus_caco_vero/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nara3m.github.io/project/lims/qcloud/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nara3m.github.io/project/others/formbricks/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nara3m.github.io/tag/quality-control-qc/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nara3m.github.io/project/metabolomics/mec053/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nara3m.github.io/project/metabolomics/resolute/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nara3m.github.io/tag/reursive-programming/</loc>
@@ -263,7 +299,13 @@
     <loc>https://nara3m.github.io/tag/statistics/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nara3m.github.io/project/metabolomics/mec086/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nara3m.github.io/project/hpc/vm/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nara3m.github.io/tag/vm/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nara3m.github.io/tag/perl/</loc>
@@ -290,9 +332,6 @@
     <loc>https://nara3m.github.io/tag/gene-ontology/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
   </url><url>
-    <loc>https://nara3m.github.io/tag/metabolomics/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
-  </url><url>
     <loc>https://nara3m.github.io/author/mohammad-reza-hajirezaei/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
   </url><url>
@@ -312,9 +351,9 @@
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>
   </url><url>
     <loc>https://nara3m.github.io/slides/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nara3m.github.io/slides/example/</loc>
+    <loc>https://nara3m.github.io/slides/example-slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nara3m.github.io/author/christian-kugler/</loc>
@@ -552,8 +591,7 @@
   </url><url>
     <loc>https://nara3m.github.io/categories/</loc>
   </url><url>
-    <loc>https://nara3m.github.io/slides/190731/</loc>
-    <lastmod>2019-07-24T11:20:59+02:00</lastmod>
+    <loc>https://nara3m.github.io/slides/profile/</loc>
   </url><url>
     <loc>https://nara3m.github.io/publication/</loc>
     <lastmod>2019-07-24T11:20:59+02:00</lastmod>

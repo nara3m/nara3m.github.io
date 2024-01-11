@@ -19,7 +19,13 @@
       
       <guid>https://nara3m.github.io/project/hpc/aws_azure/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Administer for &lt;a href=&#34;https://azure.microsoft.com/en-us/products/storage/blobs&#34;&gt;Azure storage blob&lt;/a&gt; accounts for Proteomics and Metabolomics projects of CeMM.&lt;/li&gt;
+&lt;li&gt;Admin for &lt;a href=&#34;https://azure.microsoft.com/en-us/products/storage/blobs&#34;&gt;Azure storage blob&lt;/a&gt; accounts for Proteomics and Metabolomics facilities of CeMM.
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;./1.png&#34; alt=&#34;png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;./2.png&#34; alt=&#34;png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;./3.png&#34; alt=&#34;png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;Deployed multiple Omics datasets in public repositories
 &lt;ul&gt;
 &lt;li&gt;Study &lt;a href=&#34;https://www.ebi.ac.uk/metabolights/MTBLS4231&#34;&gt;MTBLS4231&lt;/a&gt; in Metabolights&lt;/li&gt;
