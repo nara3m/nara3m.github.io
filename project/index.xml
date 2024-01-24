@@ -180,6 +180,35 @@ statistical tests for significance, data visualization, data archival and manusc
     </item>
     
     <item>
+      <title>European Common Tick</title>
+      <link>https://nara3m.github.io/project/proteomics/tick/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/project/proteomics/tick/</guid>
+      <description>&lt;iframe src=&#34;https://reveal-8x7.pages.dev/tick/&#34; width=&#34;1000&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;geolocation *; microphone *; camera *; midi *; encrypted-media *&#34;&gt;&lt;/iframe&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Instrument Log Book</title>
+      <link>https://nara3m.github.io/project/lims/mstracking/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/project/lims/mstracking/</guid>
+      <description>&lt;p&gt;I Created Excel Macro enabled log book for instruments for Mass Spectrometry Facility at CeMM&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Monthly worksheets&lt;/li&gt;
+&lt;li&gt;Easy to use (example Copy-Paste) and intuitive Excel interface.&lt;/li&gt;
+&lt;li&gt;Macro enabled color coding&lt;/li&gt;
+&lt;li&gt;Automated calendar to grey out weekends&lt;/li&gt;
+&lt;li&gt;Easy to use Excel plotting function for reporting&lt;/li&gt;
+&lt;li&gt;Simple, light-weight and cost effective solution&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lab Operations Software</title>
       <link>https://nara3m.github.io/project/lims/ilab/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
@@ -420,6 +449,15 @@ ratio.&lt;/li&gt;
     
     <item>
       <title>Chemo-Proteomics</title>
+      <link>https://nara3m.github.io/project/proteomics/chemoproteomics/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/project/proteomics/chemoproteomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compound Screening</title>
       <link>https://nara3m.github.io/project/dashboards/chemoproteomics/</link>
       <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
       
@@ -429,10 +467,10 @@ ratio.&lt;/li&gt;
     
     <item>
       <title>Data Independent Acquision (DIA)</title>
-      <link>https://nara3m.github.io/project/dashboards/dia/</link>
+      <link>https://nara3m.github.io/project/proteomics/dia/</link>
       <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nara3m.github.io/project/dashboards/dia/</guid>
+      <guid>https://nara3m.github.io/project/proteomics/dia/</guid>
       <description></description>
     </item>
     
@@ -469,6 +507,15 @@ ratio.&lt;/li&gt;
       <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://nara3m.github.io/project/transcriptomics/ipk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcription Coactivator Complex</title>
+      <link>https://nara3m.github.io/project/dashboards/dia/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/project/dashboards/dia/</guid>
       <description></description>
     </item>
     

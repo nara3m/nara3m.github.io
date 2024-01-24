@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Instrument Log Book</title>
+      <link>https://nara3m.github.io/project/lims/mstracking/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nara3m.github.io/project/lims/mstracking/</guid>
+      <description>&lt;p&gt;I Created Excel Macro enabled log book for instruments for Mass Spectrometry Facility at CeMM&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Monthly worksheets&lt;/li&gt;
+&lt;li&gt;Easy to use (example Copy-Paste) and intuitive Excel interface.&lt;/li&gt;
+&lt;li&gt;Macro enabled color coding&lt;/li&gt;
+&lt;li&gt;Automated calendar to grey out weekends&lt;/li&gt;
+&lt;li&gt;Easy to use Excel plotting function for reporting&lt;/li&gt;
+&lt;li&gt;Simple, light-weight and cost effective solution&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lab Operations Software</title>
       <link>https://nara3m.github.io/project/lims/ilab/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
